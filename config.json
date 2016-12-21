@@ -1,0 +1,8 @@
+{
+	"database_path": "test.db",
+	"download_path": "clips/",
+	"seed_genres": ["r&b/soul","soul","rock","alternative","dance","hip-hop/rap", "blues", "classical", "country","jazz","reggae","easy listening"],
+	"continue": false,
+	"scrape_song_limit": 100,
+    "youtube_key": "*****************"
+}
